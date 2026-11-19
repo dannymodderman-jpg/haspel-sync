@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: haspel-sync
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -24,5 +28,10 @@ jobs:
           git config user.name "haspel-sync"
           git config user.email "haspel-sync@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || git commit -m "Haspeldata $(date -u +%F)"
-          git push
+          if git diff --cached --quiet; then echo "Geen wijzigingen"; exit 0; fi
+          git commit -m "Haspeldata $(date -u +%F)"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push && exit 0
+            echo "Push mislukt, poging $i – opnieuw over 5 seconden"; sleep 5
+          done
+          exit 1
