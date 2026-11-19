@@ -81,7 +81,8 @@ function parseProduct(html, url) {
     }
   }
   return { sku: String(ld.sku || ld.productID), name: decode(h1 || ld.name || ''), price: +(ld.offers?.price || 0),
-    stock: /InStock/i.test(ld.offers?.availability || ''), url, spec };
+    stock: /InStock/i.test(ld.offers?.availability || ''), url, spec,
+    img: decodeURI(String((Array.isArray(ld.image) ? ld.image[0] : ld.image) || '').replace(/^.*\/product\/image\//, '')) };
 }
 
 /* ---------- classificatie (zelfde regels als de configurator) ---------- */
@@ -139,7 +140,7 @@ function classify(p, cats) {
     else if (/^ramex/i.test(n) && !serie) serie = 'Ramex';
     else if (/^mavel/i.test(n) && !serie) serie = 'Mavel';
   }
-  return [p.sku, n.replace(/\|/g, '/'), p.price, p.stock ? 1 : 0, t, m, len ?? '', dia, bar ?? '', matCode(x.Materiaal, n), bed, uitv, volt, kabel, ip, kw, serie];
+  return [p.sku, n.replace(/\|/g, '/'), p.price, p.stock ? 1 : 0, t, m, len ?? '', dia, bar ?? '', matCode(x.Materiaal, n), bed, uitv, volt, kabel, ip, kw, serie, p.img || ''];
 }
 
 /* ---------- hoofdprogramma ---------- */
@@ -181,9 +182,9 @@ async function main() {
     const cats = [...(found.get(p.url) || [])];
     const old = prev.get(sku);
     if (old) {
-      const row = old.slice(); while (row.length < 17) row.push('');
+      const row = old.slice(); while (row.length < 18) row.push('');
       if (+row[2] !== p.price || String(row[3]) !== (p.stock ? '1' : '0')) changed.push(sku);
-      row[1] = p.name.replace(/\|/g, '/') || row[1]; row[2] = p.price || row[2]; row[3] = p.stock ? 1 : 0;
+      row[1] = p.name.replace(/\|/g, '/') || row[1]; row[2] = p.price || row[2]; row[3] = p.stock ? 1 : 0; row[17] = p.img || row[17];
       items.push(row);
     } else { items.push(classify(p, cats)); added.push(`${sku} ${p.name}`); }
   }
