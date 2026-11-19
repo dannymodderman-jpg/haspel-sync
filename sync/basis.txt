@@ -1,0 +1,348 @@
+10023777|Zeca zwenkbare montagebeugel 1400 serie|70|1|acc|||||s|||||||1400
+10003249|Zeca zwenkbare montagebeugel 1701|238|0|acc|||||s|||||||1700
+10023776|Zeca montagebeugel 1400 serie|28|1|acc|||||s|||||||1400
+10028849|Zeca kabelarm tbv 1700 serie -145 mm - type 2 1707|192|0|acc|||||s|||||||1700
+10050125|Raasm S430 Draaiplateau 360° gegalvaniseerd - 843014|95|0|acc|||||s|||||||S430
+10003250|Zeca kabelarm tbv 1700 serie -115 mm type 1 - 1706|168|0|acc|||||s|||||||1700
+10023775|Zeca beugel met slanggeleider 1406|77|0|acc|||||s|||||||1400
+10004626|Raasm S540 scharnierende muurbeugel RVS - 854006|244|1|acc|||||r|||||||S540
+10006887|Raasm lucht/water haspel gelakt staal S530 1" zonder slang|459|1|lw|LWD|0||20|s||V|||||S530
+10006894|Raasm S530 diesel haspel gelakt staal 8 meter 1" slang|790|0|diesel|D|8|1|10|s||V|||||S530
+10006890|Raasm S530 diesel haspel gelakt staal 12 meter ¾" slang|754|1|diesel|D|12|¾|10|s||V|||||S530
+10020938|Raasm S530 scharnierende muurbeugel gelakt staal|46|1|acc|||||s|||||||S530
+10015823|Raasm S540 scharnierende muurbeugel gelakt staal|105|1|acc|||||s|||||||S540
+10026905|Raasm S540 L/W/D haspel gelakt staal - zonder slang|399|0|lw|LWD|0||20|s||V|||||S540
+10026914|Raasm S540 L/W/D haspel RVS - zonder slang|762|0|lw|LWD|0||20|r||V|||||S540
+10039395|Raasm Zwenkbeugel RVS 316 voor S560 856007|668|1|acc|||||r|||||||S560
+10026930|Raasm S560 L/W/D haspel RVS - zonder slang|1021|0|lw|LWD|0||20|r||V|||||S560
+10026921|Raasm L/W/D haspel S560 20 bar 1" handbed. staal 75600.100|618|0|lw|LWD|0||20|s|H|V|||||S560
+9065903|Raasm S540 L/W/D gelakt zonder slang 8540.100|583|1|lw|LWD|0||20|s||V|||||S540
+9065922|Raasm S540 L/W/D haspel gelakt staal - ¾" 15 meter slang|826|1|diesel|D|15|¾|10|s||V|||||S540
+10039396|Raasm Zwenkbeugel Staal Gelakt voor S560 856005|231|1|acc|||||s|||||||S560
+9065923|Raasm S540 L/W/D haspel gelakt staal - ¾" 20 meter slang|901|0|diesel|D|20|¾|10|s||V|||||S540
+9065925|Raasm S560 L/W/D haspel gelakt staal - ¾" 30 meter slang|1498|0|lw|LD|30|¾|10|s||V|||||S560
+9065927|Raasm S560 L/W/D haspel gelakt staal - ¾" 40 meter slang|1609|0|diesel|D|40|¾|10|s||V|||||S560
+9065929|Raasm S560 L/W/D haspel gelakt staal - 1" 30 meter slang|1767|0|lw|LD|30|1|10|s||V|||||S560
+9065924|Raasm S540 L/W/D haspel gelakt staal - 1" 15 meter slang|983|1|lw|LWD|15|1|10|s||V|||||S540
+9065939|Raasm S560 Diesel haspel RVS - 1" 30 meter slang|2382|0|diesel|D|30|1|10|r||V|||||S560
+9065926|Raasm S560 L/W/D haspel gelakt staal - ¾" 35 meter slang|1555|0|lw|LD|35|¾|10|s||V|||||S560
+9071053|Raasm L/W/D haspel S560 gelakt staal - zonder slang|1055|1|lw|LWD|0||20|s||V|||||S560
+9065938|Raasm S560 L/W/D haspel RVS - 1" 20 meter slang|2168|0|lw|WD|20|1|10|r||V|||||S560
+10002303|Zeca aardingshaspel 16 meter 6mm kabel type 4106|223|1|aard||16|||k||||6|42||
+10005849|Zeca 6193/PRC aardingshaspel 17 mtr 16 mm2|643|0|aard||17|||al||||16|42||
+10005850|Zeca 6195/PRC aardingshaspel 24+2 mtr 6 mm2|643|1|aard||26|||al||||6|42||
+10005848|Zeca 9006 aardingshaspel 7 mtr 6 mm2 kabel|132|0|aard||7|||k||||6|42||
+10005853|Zeca 1711 aardingshaspel 32 meter 16mm2 Type 1711 IP65|1644|0|aard||32|||s||||16|65||
+9071064|Raasm L/W/D haspel S560 RVS - zonder slang|1679|1|lw|LWD|0||20|r||V|||||S560
+10005852|Zeca 6198/PRC aardingshaspel 28+2 mtr 2.5 mm2|627|0|aard||30|||al||||2.5|42||
+10006086|Zeca 7116 aardingshaspel met 20+2 meter kabel|508|1|aard||22|||k||||16|42||
+10005855|Zeca 1712 aardingshaspel 30+2 meter 25mm2 IP65|1895|0|aard||32|||s||||25|65||
+10023488|Zeca 5832/XF aardingshaspel 10 mtr 16 mm² kabel|246|0|aard||10|||k||||16|42||
+10006079|Zeca aardingshaspel 11 meter 1x16mm2 4116|264|1|aard||11|||k||||16|42||
+10023467|Zeca 1421 aardinghaspel 18 + 2 mtr 1x25 mm²|1105|0|aard||20|||s||||25|65||
+10023466|Zeca 1420 aardinghaspel 20 + 2 mtr 1x16 mm²|988|0|aard||22|||s||||16|65||
+10023490|Zeca 5836/XF aardingshaspel 16,5 mtr 2,5 mm² kabel|199|1|aard||16.5|||k||||2.5|42||
+10023489|Zeca 5834/XF aardingshaspel 14 mtr 6 mm² kabel|214|1|aard||14|||k||||6|42||
+10023492|Zeca 6193/PRC/IP65 aardingshaspel 15 + 2 mtr 16mm² kabel|910|0|aard||17|||al||||16|65||
+10032052|Mavel veiligheidslinthaspel 16 meter rood/wit - 811700|162|1|lint||16|||||Z|||||
+10024341|Zeca Veiligheidslinthaspel 9801 RW rood/wit 8 meter|107|1|lint||8|||k|||||||
+10037672|Mavel Veiligheidslint haspel 20 meter rood/wit - 808400|192|1|lint||20||||||||||
+10050070|Zeca Veiligheidslinthaspel 4801 RW - rood/wit 20 meter|183|1|lint||20|||k|||||||
+10001803|Raasm S450 vethaspel +12 meter 1/4" slang ABS - staal gesloten haspel - 9450.501|496|0|vet||12|¼|400|as||V|||||S450
+10001804|Raasm S450 Vethaspel + 18 meter ¼" slang ABS-staal - Gesloten - 9450.502|558|1|vet||18|¼|400|as||V|||||S450
+10001808|Raasm S450 kunststof-staal gesloten haspel met 15 meter ⅜" slang|588|0|vet||15|⅜|400|as||V|||||S450
+10001805|Raasm S450 vethaspel + 10 meter 3/8" slang ABS-staal - Gesloten - 9450.505|521|0|vet||10|⅜|400|as||V|||||S450
+10002176|Raasm S430 vethaspel ABS/staal +18 meter 1/4" slang - 9430.502|509|1|vet||18|¼|400|as||V|||||S430
+10002175|Raasm S430 vethaspel 12 meter ¼" slang kunststof - staal|447|1|vet||12|¼|400|as||V|||||S430
+10002177|Raasm S430 vethaspel 10 meter ⅜" slang kunststof - staal|473|0|vet||10|⅜|400|as||V|||||S430
+9041001|Raasm S390 vethaspel + 12 meter ¼" slang gelakt staal|455|1|vet||12|¼|400|s||V|||||S390
+10002178|Raasm S430 vethaspel 15 meter ⅜" slang kunststof - staal|539|1|vet||15|⅜|400|as||V|||||S430
+9041022|Raasm S430 vethaspel 10 meter ⅜" slang gelakt staal|533|1|vet||10|⅜|600|s||V|||||S430
+9041002|Raasm S390 vethaspel gelakt staal + 16 meter ¼" slang|486|1|vet||16|¼|400|s||V|||||S390
+9041035|Raasm S530 veerbed. haspel met 25 meter ⅜" slang gelakt staal|866|0|vet||25|⅜|400|s|V|V|||||S530
+9041034|Raasm S530 veerbediende haspel + 20 meter ⅜" slang gelakt staal|796|0|vet||20|⅜|600|s|V|V|||||S530
+9041023|Raasm S430 vethaspel + 15 meter 3/8" slang gelakt staal|600|1|vet||15|⅜|600|s|||||||S430
+9041037|Raasm S540 vethaspel 30 meter ⅜" slang gelakt staal|1026|0|vet||30|⅜|400|s||V|||||S540
+10000337|Zeca 4315/GS kabelhaspel 230v met 14+1 meter kabel met stekker|222|1|kabel||15.5|||k|||230v|3x1.5|42|1.8|
+10000335|Zeca 4315 kabelhaspel 230v met 14+1 meter kabel|194|1|kabel||15|||k|||230v|||1.8|
+10000334|Zeca 5843/XF kabelhaspel 7 meter - 5 x1,5mm² 400v|255|1|kabel||7|||k|||400v|5x1.5|42|1.9|
+10000336|Zeca 4315/S kabelhaspel 230v met 14+1 meter kabel|194|1|kabel||15|||k|||230v|3x1.5|42|1.8|
+10000338|Zeca 4315/S/GS kabelhaspel grijs 230v met 14+1 meter kabel met stekker|222|1|kabel||15.5|||k|||230v|3x1.5|42|1.8|
+10000341|Zeca 4425 kabelhaspel 400v met 8+1 meter kabel|255|1|kabel||9|||k|||400v|4x2.5|42|2.7|
+10000339|Zeca 4325 kabelhaspel 3x2,5 mm2 -230v 10 meter kabel|194|1|kabel||10|||k|||230v|3x2.5|42|2.5|
+10000343|Zeca 4515 kabelhaspel 400v met 8+1 meter kabel|264|0|kabel||9|||k|||400v|5x1.5|42|1.9|
+10000340|Zeca 4415 kabelhaspel 400v met 10+1 meter kabel|240|1|kabel||11|||k|||400v|4x1.5|42|1.9|
+10000342|Zeca 4510 kabelhaspel 400v met 10,5+1 meter kabel|264|1|kabel||11.5|||k|||400v|5x1.0|42|1.5|
+10000349|Zeca 6181/PRC kabelhaspel 400v met 21+2 meter kabel IP65|925|0|kabel||23||||||400v||65|1.1|
+10000348|Zeca 6181/PRC kabelhaspel 400v met 21+2 meter kabel|637|0|kabel||22|||k|||400v||42|1.8|
+10000345|Zeca 6186/PRC kabelhaspel 230v met 24+2 meter kabel IP65|861|0|kabel||26|||k|||230v|3x1.5|65|1.8|
+10000353|Zeca 6022/PRC kabelhaspel 400v met 10+2 meter kabel|637|1|kabel||12|||al|||400v|5x2.5|42|3.0|
+10000356|Zeca 7415 kabelhaspel 400v met 25+2 meter kabel|426|0|kabel||27||||||400v||42|1.8|
+10000563|Zeca Kabelhaspel L=7+1 mtr 2x1 mm 230V 9001|133|1|kabel||8||||||230v|2x1||1.6|
+10000653|Mavel veerbediende kabelhaspel 230V,3x2,5mm², L=20mtr.820721|441|1|kabel||20|||k|V|Z|230v|3x2.5|24|3|
+10000354|Zeca 7315 kabelhaspel 230v met 25+2 meter kabel|392|1|kabel||27||||||230v||42|1.8|
+10000355|Zeca 7325 kabelhaspel 230v met 20+2 meter kabel|408|1|kabel||22|||k||Z|230v|3x2.5|42|3.0|
+10001117|Mavel Roll Master plus kabelhaspel 15 meter 2 x 1 mm² - 230v 811010|179|0|kabel||15|||k||Z|230v|2x1|24|2|
+10000357|Zeca 7425 kabelhaspel 400v met 18+2 meter kabel|443|1|kabel||20|||k|||400v||42|3.0|
+10001118|Mavel Roll Special kabelhaspel 10 meter 5 x 1.5 mm² - 400v 824170|276|0|kabel||10|||k||Z|400v|5x1.5|20|3|
+10006081|Zeca 4210 kabelhaspel 230v met 17+1 meter kabel|199|0|kabel||18||||||230v|2x1.0|42|1.4|
+10001749|Zeca 7525 kabelhaspel 400v met 15+2 meter kabel|490|1|kabel||17|||k|||400v|5x2.5|42|3.0|
+10004315|Mavel Roll Special Kabelhaspel 18 meter 3 x 1,5 mm2 - 230v 824132|210|1|kabel||18|||k|||230v|3x1.5|20|2|
+10006083|Zeca 4215 kabelhaspel 230v met 15+1 meter kabel|223|0|kabel||16|||k|||230v|2x1.5|42|1.6|
+10006087|Zeca 7215 kabelhaspel 230v met 25+2 meter kabel|362|0|kabel||27||||||230v||42|1.8|
+10015486|Zeca 6061/PRC kabelhaspel 400v met 6+2 meter kabel|693|0|kabel||8||||||400v||42||
+10006967|Mavel Roll Special Kabelhaspel 18 meter 3 x 1,5 mm2 + stekker - 230v 824142|225|1|kabel||18|||k||Z|230v|3x1.5|20|2.0|
+10016092|Mavel veerbed.kabelhaspel 230V 3X2,5mm2+stekker 20mtr 820722|522|0|kabel||20|||k|V|Z|230v|3x2.5|24|3|
+10023500|Mavel Roll Compact kabelhaspel 10 meter 5 x 1,5mm² - 400v 808770|277|0|kabel||10|||k|||400v|5x1.5|24|3|
+10021214|Mavel Roll Master Plus kabelhaspel 15 meter 3x1.5mm² - 230v 811020|196|1|kabel||15|||k||Z|230v|3x1.5|24|2.0|
+10023784|Mavel Roll Dynamic kabelhaspel 10 meter 5 x 1,5 mm² 400v - 826110|276|0|kabel||10|||k||V|400v|5x1.5|20|3|
+10006089|Zeca 7515 kabelhaspel 400v met 20+2 meter kabel|490|0|kabel||22||||||400v||42|2.2|
+10049348|Zeca Kabelhaspel 4315 IP65 3 x 1,5mm2 15 meter|274|1|kabel||15||||||230v|3x1.5|65|1.8|4000
+9101015|Mavel Roll Classic kabelhaspel 20 meter 2 x 1 mm2 230V 808723|214|1|kabel||20|||k||Z|230v|2x1|24|2.0|
+10023786|Mavel Roll Dynamic kabelhaspel 18 meter 3 x 1,5 mm² - 826020|220|0|kabel||18|||k||V|230v|3x1.5|20|2.0|
+9101002|Mavel Roll Compact kabelhaspel 18 meter 3 x 1,5 mm2 230v - 808732|220|1|kabel||18|||k|||230v|3x1.5|24|2.0|
+9101001|Mavel Kabelhaspel 230v 3 x 1,5 mm2 10 meter Roll Classic plus 811190|177|1|kabel||10|||k||Z|230v|3x1.5|24|2|
+10023785|Mavel Roll Dynamic kabelhaspel 15 meter 3 x 2,5 mm² - 826070|293|1|kabel||15|||k||V|230v|3x2.5|20|3.5|
+10000311|Zeca 9100/6 luchthaspel + 6,5 meter - 5,5 mm slang|132|1|lw|LW|6.5|5,5 mm|12|k||Z|||||
+9101000|Mavel Kabelhaspel 230v 2 x 1 mm2 15 meter Roll Classic plus 811180|174|0|kabel||15|||k||Z|230v|2x1|24|2|
+10000319|Zeca 813/8 lucht- waterhaspel geel + 12 meter 5/16" slang|372|1|lw|LW|12|5/16|12|k||Z|||||
+10000321|Zeca 813/10 lucht- waterhaspel geel + 9 meter ⅜" slang|372|1|lw|LW|9|⅜|12|k||Z|||||
+10000322|Zeca 813/10/S lucht- waterhaspel grijs + 9 meter ⅜" slang|372|1|lw|LW|9|⅜|12|al||Z|||||
+10000320|Zeca 813/8/S lucht- waterhaspel grijs + 12 meter 5/16" slang|372|1|lw|LW|12|5/16|12|k||Z|||||
+10001797|Raasm S450 lucht- waterhaspel + 18 meter 3/8" slang gesloten - 9450.102|524|0|lw|LW|18|3/8|20|as||V|||||S450
+10004101|Ramex HR 1000 HAI RVS 304 haspel|584|1|lw|LW|0||200|r||V|||||
+10004313|Mavel Roll Special Luchthaspel + 12 meter 5/16" slang - 823110|152|1|lw|LW|12|5/16|10|k||Z|||||
+10001796|Raasm S450 lucht- waterhaspel + 12 meter 3/8" slang gesloten - 9450.101|469|1|lw|LW|12|3/8|20|s||V|||||S450
+10004361|Raasm S450 waterhaspel ABS/ST gesloten 20 bar zonder slang - 9450.100|327|0|lw|W|0||20|as||V|||||S450
+10015390|Zeca AL 83/10 luchthaspel met 16 meter ⅜" slang|304|1|lw|LW|16|⅜|15|al||Z|||||
+10004530|Raasm S260 Lucht- waterhaspel + 11 meter 5/16" slang 89109|198|1|lw|LW|11|5/16|20|k||Z|||||S260
+10015657|Zeca AL 81/8 luchthaspel met 10 meter 5/16" slang|224|1|lw|LW|10|5/16|15|al||Z|||||
+10015659|Zeca AL 83/8 luchthaspel met 16 meter 5/16" slang|304|1|lw|LW|16|5/16|15|al||Z|||||
+10020946|Raasm S260 Lucht- waterhaspel + 11 meter 1/4" slang - 89110|191|0|lw|LW|11|¼|20|k||Z|||||S260
+10023782|Mavel Roll Dynamic luchthaspel met 12 meter 5/16" slang 826300|163|1|lw|LW|12|5/16|15|k||V|||||
+10023783|Mavel Roll Dynamic luchthaspel met 15 meter ¼"slang 826250|166|0|lw|L|15|¼|10|k||V|||||
+10024106|Zeca AL 81/10 luchthaspel met 8 meter ⅜" slang|224|1|lw|LW|8|⅜|15|al||Z|||||
+10023781|Mavel Roll Dynamic luchthaspel met 8 meter 3/8" slang 826400|180|0|lw|LW|8|⅜|15|k||V|||||
+10024135|Raasm S280 L/W gesloten haspel + 10 meter 5/16" slang - 92808.101|274|0|lw|LW|10|5/16|20|k||Z|||||S280
+10024151|Raasm lucht-/waterhaspel S280 kunststof gesloten 14 meter 5/16"|340|0|lw|LW|14|5/16|20|k||Z|||||S280
+10024104|Zeca AL 83/13 luchthaspel met 11 meter ½" slang|304|1|lw|LW|11|½|15|al||Z|||||
+10026918|Raasm waterhaspel S540 200 bar RVS handbediend 75440.300|662|1|lw|W|0||200|r|H|V|||||S540
+10028617|Zeca 8424 lucht/waterhaspel 20 meter 3/8" slang KPU|443|1|lw|LW|20|⅜|20|as||V|||||
+10026925|Raasm waterhaspel S560 200 bar gelakt staal - 75600.300|606|0|lw|W|0||200|s||V|||||S560
+10024134|Raasm S280 Lucht-/waterhaspel kunststof gesloten 14 meter 5/16" 92808.102|275|0|lw|LW|14|5/16|20|k||Z|||||S280
+10026915|Raasm S540 L/W/D haspel RVS 1/2" handbediend - 75420.105|658|0|lw|LWD|0||20|r|H|V|||||S540
+10044721|Zeca 805/10/B SAFE + 10 mm 16 meter slang|243|1|lw|LW|16|⅜|15|||||||||805
+10041690|Mavel Roll Extra Lucht- waterhaspel + 20 meter 3/8" slang - geintegr. slowmotion 882100|332|1|lw|LW|20|⅜|15|k|||||||
+9071001|Mavel Major Plus luchthaspel + 15 meter ⅜" slang 821300|237|1|lw|LW|15|⅜|15|k||Z|||||
+9052083|Raasm S530 RVS waterhaspel zonder slang - 3/8"- Vast - 8534.350|951|1|lw|LW|0||400|r||V|||||S530
+9071002|Mavel Major Plus luchthaspel + 15 meter 8mm slang 821100|206|1|lw|LW|15|5/16|15|k||Z|||||
+9071031|Raasm S260 L/W Haspel 11 meter 5/16" slang - 89010|214|0|lw|LW|11|5/16|20|k||Z|||||S260
+9071054|Raasm S430 RVS Lucht/Water haspel + 12 meter 3/8" slang - 8432.101|742|0|lw|LW|12|⅜|20|r||Z|||||S430
+9071048|Raasm S530 Lucht/Water haspel + 25 meter 1/2" slang - 8530.102|721|1|lw|LW|25|½|20|s||V|||||S530
+9071057|Raasm S430 RVS Lucht/Water haspel + 15 meter 1/2" slang - 8432.104|794|1|lw|LW|15|½|20|r||V|||||S430
+9071056|Raasm S430 RVS Lucht/Water haspel + 10 meter 1/2" slang - 8432.103|743|0|lw|LW|10|½|20|r||Z|||||S430
+9071058|Raasm S530 RVS Lucht/Water haspel + 20 meter 1/2" slang - 8532.101|1016|0|lw|LW|20|½|20|r||V|||||S530
+9071047|Raasm S530 Lucht/Water Haspel 20 meter 1/2" slang - 8530.101|670|0|lw|LW|20|½|20|s||V|||||S530
+9071059|Raasm S530 RVS Lucht/Water haspel + 25 meter 1/2" slang - 8532.102|1069|0|lw|LW|25|½|20|r||V|||||S530
+9071055|Raasm S430 RVS Lucht/Water haspel + 18 meter 3/8" slang - 8432.102|794|0|lw|LW|18|⅜|20|r||Z|||||S430
+9071062|Raasm S540 Lucht/Water RVS haspel + 20 mtr 3/4 slang vast - 8542.102|1359|1|lw|LW|20|¾|20|r||V|||||S540
+9071080|Mavel Master Plus luchthaspel met 12 meter ¼" slang 804250|157|1|lw|L|12|¼|10|k||Z|||||
+9071083|Mavel compact luchthaspel met 12 meter ¼" slang 808075|177|1|lw|LW|12|¼|15|k||Z|||||
+9071082|Mavel Classic Plus luchthaspel met 10 meter ¼" slang 804300|150|0|lw|L|10|¼|10|k||Z|||||
+9071081|Mavel Roll Master Plus luchthaspel + 9 meter 5/16" slang 804200|154|1|lw|LW|9|5/16|10|k||Z|||||
+9071086|Mavel Mega luchthaspel met 20 meter ⅜" slang 880100|322|1|lw|LW|20|⅜|15|k||Z|||||
+9071084|Mavel Roll Compact luchthaspel + 15 meter ¼" slang - 808650|178|1|lw|L|15|¼|10|k||Z|||||
+9071085|Mavel Roll Minor Luchthaspel 5+1 meter 8 mm - 810010|120|1|lw|L|6|¼|10|k||Z|||||
+10000176|Raasm S430 lucht-water haspel ABS-staal zonder slang|271|1|lw|LW|0||20|as||V|||||S430
+9071087|Mavel Mega luchthaspel + 16 meter ½" slang 880200|343|1|lw|LW|16|½|15|k||Z|||||
+9071326|Raasm S390 Lucht/Water RVS304 Haspel + 12 meter 3/8" hygiene slang - 8393.201|687|0|lw|LW|12|⅜|100|r||V|||||S390
+10000346|Zeca 6184/PRC kabelhaspel 230v met 15+2 meter kabel - 3 x 2,5 mm2|577|1|kabel||17|||al|||230v|3x2.5|42|3.0|
+10000352|Zeca 6067/PRC kabelhaspel 400v met 16+2 meter kabel|612|0|kabel||17|||k|||400v||42|2.2|
+10000344|Zeca 6186/PRC kabelhaspel 230v met 24+2 meter kabel|612|0|kabel||26|||al|||230v|3x1.5|42|1.8|
+10000350|Zeca 6179/PRC kabelhaspel 400v met 15+2 meter kabel|593|1|kabel||17|||k|||400v||42|3.0|
+10000367|Zeca 5907/329 Kabelhaspel met led looplamp 15,5 meter 230V|243|1|lamp||15.5||||||230v||42||
+10003302|Zeca AM80/8 Luchthaspel met 10 meter 5/16" slang|147|0|lw|L|10|5/16|15|k||Z|||||
+10000560|Zeca 5908/T306 12v - 230v Kabelhaspel met looplamp 15 meter|271|0|lamp||15|||k|||12v-230v||20||
+10000441|Raasm Zwenkbeugel Staal Gelakt voor S290, S330, S390, S430|43|1|acc|||||s|||||||S290
+10003304|Zeca AM85/10 Luchthaspel met 16 meter ⅜" slang|198|1|lw|L|16|⅜|15|k||Z|||||
+10003375|Raasm S430 lucht-water haspel ABS + 12 meter ⅜" slang|410|0|lw|LW|12|⅜|20|as||V|||||S430
+10000568|Zeca 5907/T306 Kabelhaspel met looplamp 15 meter|166|0|lamp||15|||k|||230v||20||
+10003377|Raasm S430 lucht-water haspel ABS + 10 meter ½" slang|412|1|lw|LW|10|½|20|k||V|||||S430
+10003380|Raasm S430 lucht-water haspel ABS/RVS + 18 meter ⅜" slang|554|0|lw|LW|18|⅜|20|ar||V|||||S430
+10003376|Raasm S430 lucht-water haspel ABS + 18 meter ⅜" slang|461|1|lw|LW|18|⅜|20|k||V|||||S430
+10003303|Zeca AM85/8 Luchthaspel met 16 meter 5/16" slang|192|0|lw|L|16|5/16|15|k||Z|||||
+10003378|Raasm S430 lucht-water haspel ABS + 15 meter ½" slang|461|1|lw|LW|15|½|20|as||V|||||S430
+10003381|Raasm S430 lucht-water haspel ABS/RVS + 10 meter ½" slang|503|0|lw|LW|10|½|20|ar||V|||||S430
+10021708|Mavel Roll Major Plus Slow motion|40|1|acc||||||||||||Mavel
+10003379|Raasm S430 lucht-water haspel ABS/RVS + 12 meter ⅜" slang|502|1|lw|LW|12|⅜|20|ar||V|||||S430
+10006420|Zeca 5907/329 Kabelhaspel met led looplamp 15,5 meter 24V|243|0|lamp||15.5||||||24v||42||
+10003382|Raasm S430 lucht-water haspel ABS/RVS + 15 meter ½" slang|554|0|lw|LW|15|½|20|ar||V|||||S430
+10021709|Mavel Roll Master Plus Slow motion|40|1|acc||||||||||||Mavel
+10023496|Zeca AM57/306 Kabelhaspel met looplamp 15 meter|145|0|lamp||15||||||230v||20||
+10020751|ALBA-Krapf slangwagen 'Forever' 25 bar|576|0|lw|W|||25||H||||||
+10021710|Mavel Roll Classic Plus Slow motion|40|1|acc||||||||||||Mavel
+10023507|Raasm S330 waterhaspel 12 meter 3/8" slang 20 bar - vast - 8330.101|409|0|lw|W|12|⅜|20|s||V|||||S330
+10024156|Mavel Roll Dynamic Slow motion|40|1|acc||||||||||||Mavel
+10026868|Raasm waterhaspel S430 200 bar ABS/ST. handbediend 74305.300|274|0|lw|W|0||200|as|H||||||S430
+10026873|Raasm L/W haspel S430 20 bar ABS/RVS handbediend 74325.100|344|0|lw|LW|0||20|ar|H|V|||||S430
+10026866|Raasm L/W haspel S430 20 bar ABS/ST. handbediend 74305.100|234|0|lw|LW|0||20|as|H|V|||||S430
+10026875|Raasm waterhaspel S430 200 bar ABS/RVS handbediend 74345.300|389|0|lw|W|0||200|ar|H|V|||||S430
+10026881|Raasm waterhaspel S430 200 bar gelakt staal handbediend 7430|314|0|lw|W|0||200|s|H|V|||||S430
+10026892|Raasm L/W haspel S530 20 bar gelakt staal handbediend 75300.|300|0|lw|LW|0||20|s|H|V|||||S530
+10026879|Raasm L/W haspel S430 20 bar gelakt staal handbediend 74300.100|280|0|lw|LW|0||20|s|H|V|||||S430
+10026888|Raasm waterhaspel S430 200 bar RVS handbediend 74320.300|538|0|lw|W|0||200|r|H|V|||||S430
+10026899|Raasm L/W haspel S530 20 bar RVS handbediend 75320.100|545|0|lw|LW|0||20|r|H|V|||||S530
+10026886|Raasm L/W haspel S430 20 bar RVS handbediend 74320.100|484|1|lw|LW|0||20|r|H|V|||||S430
+10026901|Raasm waterhaspel S530 200 bar RVS handbediend 75340.300|583|0|lw|W|0||200|r|H|V|||||S530
+10026894|Raasm waterhaspel S530 200 bar gelakt staal handbediend 7530|327|0|lw|W|0||200|s|H|V|||||S530
+10026909|Raasm waterhaspel S540 200 bar gelakt staal handbediend 75400.300|389|0|lw|W|0||200|s|H|V|||||S540
+10026906|Raasm L/W/D stalen haspel S540 20 bar 1/2" handbed. 75400.1|360|0|lw|LWD|0||20|s|H|V|||||S540
+10044079|Zeca L/W Haspel blauw + 16 meter 5/16" 805/8/A FLEX|231|1|lw|LW|16|5/16|15|k||Z|||||805
+10044081|Zeca 805/10/A FLEX L/W haspel + 16 meter 3/8" slang|243|1|lw|LW|16|⅜|15|k|||||||805
+10026922|Raasm L/W haspel S560 20 bar 1/2" handbed. gelakt 75600.106|566|0|lw|LW|0||20|s|H|V|||||S560
+10044080|Zeca 805/8 FLEX L/W Haspel + 16 meter 5/16" slang|231|1|lw|LW|16|5/16|15|k|||||||805
+10031702|Raasm L/W haspel S280 kunststof gesloten 8+1 mtr 3/8"|135|1|lw|LW|9|⅜|20|k||Z|||||S280
+10044082|Zeca L/W Haspel + 16 meter slang 3/8" 805/10 FLEX|243|1|lw|LW|16|⅜|15|k|||||||805
+9051060|Raasm Water Haspel Rvs 25M.3/8 200 Bar V S530 8532.302|1243|0|lw|W|25|⅜|200|r||V|||||S530
+9051050|Raasm Rvs Waterhaspel 20M. 3/8 130°-200 Bar S530 8532.301|1176|1|lw|W|20|⅜|200|r||V|||||S530
+9051062|Raasm Water Haspel Rvs Zndr.Sl. 200 Bar V S560 8564.300|1669|0|lw|W|0||200|r||V|||||S560
+9051061|Raasm Water Haspel Rvs 30M.3/8 200 Bar V S540 8542.301|1335|0|lw|W|30|⅜|200|r||V|||||S540
+9052026|Raasm S430 waterhaspel +18 meter 3/8" 200 bar - vast - 8430.302|616|0|lw|W|18|⅜|200|s||V|||||S430
+9071003|Raasm S430 Lucht/Water Haspel + 12 meter 3/8 slang - vast - 8430.101|467|1|lw|LW|12|⅜|20|s||V|||||S430
+9051072|Raasm Water Haspel Rvs 18M.3/8 Hyg.200B V S430 8434.302|1203|0|lw|W|18|⅜|200|r||V|||||S430
+9071005|Raasm Lucht/Water Haspel 18Mtr 3/8 Vast S430 8430.102|518|1|lw|LW|18|⅜|20|s||V|||||S430
+9108002|Raasm S430 lashaspel 13 meter 2 X 1/4" 20 bar Vast - 8430.701|610|0|gas||13|¼|20|s||V|||||S430
+9071232|Raasm Lucht/Water Rvs Haspel 12Mtr.3/8 Dr.S420 8422.101|766|1|lw|LW|12|⅜|20|r||Z|||||S420
+9071006|Raasm Lucht/Water Haspel 15Mtr 1/2 Vast S430 8430.104|518|1|lw|LW|15|½|20|s||V|||||S430
+9095403|Raasm swivelset 150 bar - KG202|57|1|acc||||150|||||||||
+9071046|Raasm Lucht/Water Haspel 10 Mtr 1/2 Vast S430 8430.103|468|1|lw|LW|10|½|20|s||V|||||S430
+9071029|Raasm Lucht/Water Haspel 18 Mtr.3/8 Vast S390|485|1|lw|LW|18|⅜|20|s||V|||||S390
+10000328|Zeca 9004/GS kabelhaspel 6 meter - 3 x 1,5mm² 230v + stekker|174|0|kabel||6|||k||Z|230v|3x1.5|42|1.9|
+10000177|Raasm S430 haspel 10 meter ½" slang kunststof/staal open model|436|1|olie|O|10|½|150|as|||||||S430
+10000332|Zeca kabelhaspel 7 meter 4 x 2,5 mm² 400v 5821/XF|246|1|kabel||7|||k|||400v|4x2.5|42|2.7|
+10000330|Zeca kabelhaspel L= 8,5 mtr. 3x 2,5mm² 230V. 5825/XF|223|1|kabel||8.5||||||230v|3x2.5|||
+10000365|Zeca 5907/328 Looplamphaspel neon 14+1,5 mtr 2 x 1,5 mm2 - 230V|125|1|lamp||15.5||||||230v|2x1.5|||
+10000387|Zeca Neonlooplamp los zonder kabel 328/230V|109|1|acc||||||||230v|||||5907
+10000395|Zeca fixeer kit 949 tbv haspels 804 en 4000 serie|11|1|acc|||||||||||||4000
+10000442|Raasm Zwenkbeugel RVS 304 - S290/S330/S390/S430|83|1|acc|||||r|||||||S290
+10000843|Raasm KR8705 Slangstop set Universeel 3/8" - 1"|27|1|acc|||||||||||||UNI
+10000566|Zeca Kabelhaspel L=12.5 mtr 2x1.5 mm 230V 5830/XF|205|0|kabel||12.5||||||230v|2x1.5|||
+10000443|Raasm S430 olie-koelvloeistof haspel ABS/staal 15 meter 1/2" slang|513|1|olie|O|15|½|150|as||V|||||S430
+10000875|Raasm swivel KG195 voor haspel KG195|158|1|acc|||||||||||||
+10001801|Raasm S450 oliehaspel 10 meter 1/2" 150 bar|484|1|olie|O|10|½|150|as||V|||||S450
+10001802|Raasm S450 ABS gesloten olieslanghaspel met 15 meter ½" slang - 150 bar|562|1|olie|O|15|½|150|k||V|||||S450
+10004109|Ramex HR 3500 HAI RVS 304 haspel|833|1|lw|W|0||200|r||V|||||
+10004105|Ramex HR 1200 HAI RVS 304 haspel|667|1|lw|W|0||100|r||V|||||
+10004103|Ramex HR 1100 HAI RVS 304 haspel|611|1|lw|W|0||200|r||V|||||
+10002384|Raasm S430 15 meter ½" slang ABS/RVS open model - 9432.402|607|0|olie|O|15|½|150|ar|||||||S430
+10004346|Raasm S430 oliehaspel ABS/RVS zonder slang 150 bar - 9430.400|294|1|olie|O|0||150|ar||V|||||S430
+10002383|Raasm S430 oliehaspel ABS/RVS 10 meter 1/2" 150 bar|538|1|olie|O|10|½|150|ar|||||||S430
+10004889|Ramex zwenkbeugel RVS ST HR 15|84|1|acc|||||r||||||||Ramex
+10004890|Ramex zwenkbeugel RVS ST 20|84|1|acc|||||r||||||||Ramex
+10004351|Raasm Waterhaspel ABS/RVS S430 150 bar zonder slang 9434.200|409|0|lw|W|0||150|ar||V|||||S430
+10004888|Raasm swivel KG325|94|1|acc|||||||||||||
+10008507|Raasm spare part KR7203 - detent kit|19|1|acc|||||||||||||
+10008506|Raasm spare part .rack tbv haspel I122|5|0|acc|||||||||||||
+10015267|Zeca Slangset PVC compleet 9 mtr - 10mm (813 serie) 6813.631|96|0|acc||9|||||||||||813
+10006446|Mavel Roll Major Luchthaspel 14 + 1 meter 3/8" slang - 822300|194|1|lw|LW|15|⅜|15|k||Z|||||
+10015334|Raasm S430/S420 geleiderrollen KR8510|57|1|acc||||||||||||S430
+10019928|Mavel Roll Master Plus kabelhaspel 15 meter 3 x 1,5 mm2 - 230v 811030|201|1|kabel||15|||k||Z|230v|3x1.5|24|2|
+10021706|Mavel slowmotion tbv Roll Compact 400V Air 707030|40|1|acc|L|||||||400v|||||Mavel
+10022041|Zeca 4315/GS 3 kabelhaspel 15 meter 3x1.5 mm2 230v + 3d contra stekker|222|1|kabel||15||||||230v|3x1.5|||
+10023447|Zeca kabelhaspel L=18+2 mtr 4x2,5mm² 400V 1434|1057|0|kabel||20|||s|||400v|4x2.5|||
+10023493|Zeca 6195/PRC/IP65 aardingshaspel 22 + 2 mtr 6 mm² kabel|822|0|aard||24|||al||||6|65||
+10020862|Zeca Deksel Veerzijde zwart 805 serie|6.5|1|acc|||||||||||||805
+10023511|Raasm S330 waterhaspel - vast model - 200 bar 8330.300|324|0|lw|W|0||200|s||V|||||S330
+10023559|Raasm duo haspel Olie/Verf znder slang 200 bar S530 8530.4000|299|1|olie|O|0||200|s||V|||||S530
+10022294|Raasm L/W haspel zonder slang vast model S290 - 8290.100|261|0|lw|LW|0||20|s||V|||||S290
+10023502|Raasm L/W haspel 10 meter 3/8" vast model S290 - 8290.101|393|1|lw|LW|10|⅜|20|s||V|||||S290
+10024113|Raasm S350 aardingshaspel 15 meter 6mm² - 735131.60152|522|0|aard||15|||s||||6|||S350
+10024114|Raasm S350 aardingshaspel 25 meter 6mm² - 735131.60252|622|0|aard||25|||s||||6|||S350
+10024117|Raasm aardingshaspel 15+1 mtr 6 mm² - 1065F|342|0|aard||16|||k||||6|44||
+10027920|Zeca Scharnierpen X4-X8 804 serie|1.65|0|acc|||||||||||||804
+10023547|Raasm S330 waterhaspel + 12 meter 3/8" slang - vast model - 100 bar - 8330.201|479|0|lw|W|12|⅜|100|s||V|||||S330
+10027921|Zeca Wandbeugel X4 804 serie|15.5|0|acc|||||||||||||804
+10028628|Mavel Roll Compact kabelhaspel 230v 3 x 2,5 mm² - 15 meter + stekker 808757|341|0|kabel||15|||k||Z|230v|3x2.5|24|3|
+10028710|Zeca Slangset Compl. KPU AM80/8 10 meter 8 mm|60|1|acc||10|||||||||||AM80
+10028642|Zeca looplamphaspel 330 led 14+1,5 mtr 230V - 5907/330 - 230V|125|1|lamp||15.5||||||230v|2x1|||
+10028780|Zeca kabelhaspel alu L=10+2 mtr 4x2,5mm² 400V 6521/PRC RNF|658|1|kabel||12|||al|||400v|4x2.5|||
+10028688|Zeca Scharnierpen 805 serie|5.25|0|acc|||||||||||||805
+10031303|Raasm Gasket H012|6|0|acc|||||||||||||
+10030145|Zeca kabelhaspel L= 15 mtr.3x 2,5mm² 230V. 4325/15|311|1|kabel||15||||||230v|3x2.5|||
+10031217|Raasm L/W haspel S280 kunststof gesloten 14 mtr 5/16" + speed control|185|1|lw|LW|14|5/16|20|k||Z|||||S280
+10033439|Mavel veer + blokkeerpal 704903|5|1|acc|||||||||||||Mavel
+10033786|Slangenset diesel 30 + 1 mtr 1" 20 bar RVS kopp dubb. nip wartelend|785|0|acc|D|30|1|20|r||||||||SET
+10035657|Zeca Slangset PVC compl. 12mtr 8 mm. (813 serie) 6813.630|96|0|acc||12|||||||||||813
+10034786|Mavel slangstop 11 mm - 323334|7.5|1|acc|||11 mm||k||||||||Mavel
+10037675|Mavel 811001 aardingshaspel 15 meter 6 mm2 zonder klem|193|0|aard||15|||k||Z||6|24||
+10036155|Mavel Kabelstop tbv Roll Master|4|1|acc|||||||||||||Mavel
+10038282|Ramex HR3503 FE HAI diesel haspel zonder slang|991|0|diesel|D|0||20|s||V|||||
+10037677|Mavel aardingshaspel 15mtr 6mm2 incl klem 811500|736|0|aard||15|||k||Z||6|24||
+10040186|Hamer 1/2" slangenset Lucht/water 20 +1 meter + 1/2" RVS316 koppelingen - 16 bar|361|1|acc|LW|20|½|16|r||||||||SET
+10038317|Zeca looplamphaspel 330 led 15,5 meter 24V - 5907/330 24V|117.5|1|lamp||15.5||||||24v|2x1|||
+10040716|Ramex Waterpistool Blauw 1/2" 12 bar 50°C 7401 FOOD|139|0|acc|W|||12|||||||||W
+10039151|RVS Wand Slanggeleider EFW1|140|0|acc|||||r||||||||UNI
+10042540|Mavel L/W haspel Genius met 15 meter 5/16" slang i 884100|211|1|lw|LW|15|5/16|15|k||Z|||||
+10041346|Ramex waterhaspel zndr slang 250bar RVS HR 3400 HAI|750|1|lw|W|0||250|r||V|||||
+10042542|Mavel Roll Genius kabelhaspel + 25 meter 3 x 1,5 mm2 - 885100|337|1|kabel||25|||k||Z|230v|3x1.5|24|2|
+10042543|Mavel kabelhaspel Genius 20 meter 3 x 2,5 mm2 kabel 885300|441|1|kabel||20|||k||Z|230v|3x2.5|24|3|
+10044269|Zeca Geleiderol 4000.042|2|0|acc|||||||||||||4000
+10044859|Zeca Aardingsklem 925 N|10|1|acc|||||||||||||AARD
+10044851|Zeca Kabelhaspel 10.5+1.5M 4x1mm2 400v 5824/XF|223|1|kabel||12||||||400v|4x1|||
+10045170|Faicom RVS swivel 3/8" binnendraad - 0066BX|53|0|acc|||||r|||||||||
+10045209|Faicom lashaspel 20m 2 x 3/8" slang - 20 bar - OSVM201020|500|1|gas||20|⅜|20|||||||||
+10045975|Ramex AVC 1038 Luchthaspel + 10 mtr 3/8" PU slang|105|1|lw|L|10|⅜|20|k|||||||
+10046015|Ramex AVC 1514 Luchthaspel + 15 mtr 1/4" PU slang|120|1|lw|L|15|¼|20||||||||
+10046294|Ramex Waterpistool Blauw RVS316 1/2" 24 bar 95°C 7401 B|253|0|acc|W|||24|r||||||||W
+10049637|Slangenset Water 20+0,6 1/2" 400 bar + 1/2" rvs kopeling|606|0|acc|W|20|½|400|r||||||||SET
+10050036|Zeca haakse aansluiting voor AM86 incl. clip AM86.062 + AM86.065|5.5|0|acc|||||||||||||AM86
+10050519|Ramex AVM 2090 FE Handbediende haspel 20 bar - zonder slang|3160|0|lw|LW|0||20|s|H||||||
+9021004|Raasm S430 veerbediende haspel met 10 meter ½" slang|495|1|olie|O|10|½|150|s|V|V|||||S430
+10051467|Collector Zeca haspel 6521 (6521.010)|69|0|acc|||||||||||||6521
+9021005|Raasm Oliehaspel S430 + 15 meter 1/2" slang - open / vast - 8430.402|570|1|olie|O|15|½|150|s||V|||||S430
+9021008|Raasm S430 oliehaspel zonder slang 1/2" vast - 8430.400|352|1|olie|O|0||150|s||V|||||S430
+9021012|Raasm S530 Oliehaspel zonder slang 1/2" Vast - 8530.400|440|1|olie|O|0||150|s||V|||||S530
+9021006|Raasm S520 Oliehaspel 20 meter 1/2" slang zwenkbaar - 8520.401|716|1|olie|O|20|½|150|s||Z|||||S520
+9021007|Raasm Oliehaspel S520 + 25 meter 1/2" slang - zwenkbaar - 8520.402|771|1|olie|O|25|½|150|s||Z|||||S520
+9021014|Raasm Oliehaspel S440 10Mtr 1/2 Draaib.Gesl. 8440.401|547|1|olie|O|10|½|150|s||Z|||||S440
+9021024|Raasm S530 Oliehaspel + 25 meter 1/2" slang - vast - 8530.402|748|0|olie|O|25|½|150|s||V|||||S530
+9021026|Raasm Oliehaspel S540 20 Mtr 3/4 Open Vast 100 bar 8540.412|1046|0|olie|O|20|¾|100|s||V|||||S540
+9021025|Raasm Oliehaspel S540 15 meter 3/4" slang 100 bar - 8540.411|908|1|olie|O|15|¾|100|s||V|||||S540
+9021023|Raasm Oliehaspel S530 20 Mtr 1/2 Open Vast 8530.401|693|1|olie|O|20|½|150|s||V|||||S530
+9021015|Raasm Oliehaspel S440 + 15 meter 1/2" slang - zwenkbaar - 8440.402|623|0|olie|O|15|½|150|s||Z|||||S440
+9021028|Raasm Oliehaspel S540 30 Mtr 1/2 Open Vast 8540.406|954|0|olie|O|30|½|150|s||V|||||S540
+9021027|Raasm Oliehaspel S540 15 Mtr1 Open vast 50 bar. 8540.413|1046|0|olie|O|15|1|50|s||V|||||S540
+9021029|Raasm Oliehaspel S560 Zndr.Slang 1 Open Vast 8560.400|1046|0|olie|O|0||150|s||V|||||S560
+9021031|Raasm Oliehaspel S420 10 Mtr 1/2 Open Draaib. 8420.401|513|1|olie|O|10|½|150|s||Z|||||S420
+9021030|Raasm Oliehaspel S560 Zndr.Slang 1/2 Open Vast 8560.406|1024|0|olie|O|0||150|s||V|||||S560
+9021032|Raasm S420 Oliehaspel + 15 meter 1/2" slang - 8420.402|589|1|olie|O|15|½|150|s||Z|||||S420
+9021034|Raasm Oliehaspel S550 15 Mtr 3/4 Open zw.100 bar.8550.411|961|0|olie|O|15|¾|100|s||Z|||||S550
+9021035|Raasm Oliehaspel S550 20 Mtr 3/4 Open Draaib.100 bar. 8550|1099|0|olie|O|20|¾|100|s||Z|||||S550
+9021033|Raasm Oliehaspel S550 30 Mtr 1/2 Open Draaib. 8550.406|1007|0|olie|O|30|½|150|s||Z|||||S550
+9021036|Raasm Oliehaspel S550 15 Mtr 1"Open Draaib.150 bar 8550.413|1099|0|olie|O|15|1|50|s||Z|||||S550
+9021045|Raasm Olie Haspel Zonder Slang 1 Vast S540 8540.400|591|1|olie|O|0||150|s||V|||||S540
+9021071|Raasm Olie Haspel Zonder Slang 1/2 Draai S380 8380.400|324|0|olie|O|0||150|s||Z|||||S380
+9021074|Raasm Olie Haspel Zonder Slang 1/2 Draai S420 8420.400|370|0|olie|O|0||150|s||Z|||||S420
+9021072|Raasm S380 Olie Haspel + 12 meter ⅜" slang draai - 8380.401|482|0|olie|O|12|⅜|150|s||Z|||||S380
+9021075|Raasm Olie Haspel Zonder Slang 1/2 Draai S520 8520.400|463|1|olie|O|0||150|s||Z|||||S520
+9021073|Raasm S380 Haspel + 17 meter 3/8" slang - zwenkbaar - 8380.402|536|0|olie|O|17|⅜|150|s||Z|||||S380
+9028037|Raasm Zwenkbeugel gegalv. 180° tbv 420 model (nieuw)|182|1|acc|||||s|||||||S420
+9024101|Raasm S390 Oliehaspel 12 Meter 3/8" slang - vast model - 8390.401|473|1|olie|O|12|⅜|150|s||V|||||S390
+9021076|Raasm Olie Haspel Zonder Slang 1 Draai S550 8550.400|645|0|olie|O|0||150|s||Z|||||S550
+9051049|Raasm Rvs Waterhaspel 12M. 3/8 130°-200 Bar 8432.301|811|0|lw|W|12|⅜|200|r||V|||||S430
+9024102|Raasm S390 Olie Haspel + 17 meter 3/8" slang - vast - 8390.402|526|0|olie|O|17|⅜|150|s||V|||||S390
+9051088|Raasm S520 Waterhaspel RVS + 25M 1/2" Hygiene slang 10 bar - 8524.102|977|1|lw|W|25|½|10|r||Z|||||S520
+9071013|Raasm S420 lucht- waterhaspel + 15 meter 1/2" slang - 8420.104|536|1|lw|LW|15|½|20|s||Z|||||S420
+9051051|Raasm S430 RVS waterhaspel 200 bar met 18 meter ⅜" slang|889|0|lw|W|18|⅜|200|r||V|||||S430
+9071030|Raasm Lucht/Water Haspel Zndr Slang 1/2 V S530 8530.100|418|1|lw|LW|0||20|s||V|||||S530
+9071078|Raasm S540 L/W/D Haspel zonder slang RVS 304 - vast - 20 bar - 8542.100|957|1|lw|LWD|0||20|r||V|||||S540
+9071098|Raasm Lucht/Water Haspel 40 Mtr.3/4 Vast S560 8560.103|1752|0|lw|LW|40|¾|20|s||V|||||S560
+9071052|Raasm Lucht/Water Haspel 30 Mtr.1/2 Vast S540 8540.106|883|0|lw|LW|30|½|20|s||V|||||S540
+9071221|Raasm S520 Lucht/Water Haspel zonder slang zwenkbaar - 8520.100|435|1|lw|LW|0||20|s||Z|||||S520
+9071222|Raasm Lucht/Water Haspel Zndr.Sl.1 Draai. S550 8550.100|635|1|lw|LW|0||20|s||Z|||||S550
+9071224|Raasm Lucht/Water Haspel 20Mtr.3/4 Draai. S550 8550.102|1044|1|lw|LW|20|¾|20|s||Z|||||S550
+9095401|Raasm swivelset 600 Bar KG205|64|1|acc||||600|||||||||
+9108001|Raasm Lashaspel Zonder Slang 20 Bar Vast S430 - 8430.700|220|1|gas||0||20|s||V|||||S430
+9095406|Raasm Slangstop Universeel klein model 1/4-3/8-1/2|11|1|acc|||||||||||||UNI
+9811940|Reelcraft 1" Swivel voor Haspel 9000 Serie|176|1|acc|||||||||||||
+9108040|Raasm Gashaspel Zonder Slang 20 Bar Vast S430 8430.800|392|1|gas||0||20|s||V|||||S430
